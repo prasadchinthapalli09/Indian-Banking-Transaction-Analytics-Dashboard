@@ -104,7 +104,7 @@ indian-banking-transaction-analytics-dashboard/
 │   ├── 02-channel-transaction-status.png
 │   └── 03-fraud-risk-analysis.png
 ├── /data
-│   └── data-dictionary.md         # column/table descriptions (no raw sensitive data)
+│   └── data-dictionary.md         # column/table descriptions
 └── LICENSE
 ```
 
