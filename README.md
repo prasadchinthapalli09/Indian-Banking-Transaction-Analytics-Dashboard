@@ -117,4 +117,3 @@ indian-banking-transaction-analytics-dashboard/
 ## 👩‍💻 Author
 
 **Durga Prasad Chintapalli**
-B.Tech CSE, Raghu Engineering College (2026)
